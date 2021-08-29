@@ -25,15 +25,15 @@ The results can be seen in the .ipynb files. Unlike extracting data from multipl
 
 See below for the tables created through the transformation process:
 
-![Customers_table](https://github.com/lo7kyle/Movies-ETL/blob/main/Resources/Ratings%20import%20count.PNG) 
+![Customers_table](https://github.com/lo7kyle/Amazon_Vine_Analysis/blob/main/Resources/customers_table.PNG) 
 
-![Product_Table](https://github.com/lo7kyle/Movies-ETL/blob/main/Resources/movies_df%20import%20count.PNG) 
+![Product_Table](https://github.com/lo7kyle/Amazon_Vine_Analysis/blob/main/Resources/product_table.PNG) 
 
-![Vine_Table](https://github.com/lo7kyle/Movies-ETL/blob/main/Resources/movies_df%20import%20count.PNG) 
+![Vine_Table](https://github.com/lo7kyle/Amazon_Vine_Analysis/blob/main/Resources/vine_table.PNG) 
 
 From our analysis we wanted to know if the paid Vine Reviews program had any bias in their reviews, meaning the paid reviews had higher ratings than that of unpaid reviews. For this analysis I only looked at 5-star reviews. We can also make a case for 4-star reviews because someone is more likely to give a 4-star review instead of a 5 star review. The results I can honestly say wasn't surprising, but this showed that there isn't any bias in paid reviews. We see that there are more unpaid reviews than the paid reviews. Looking below we also see that there is a lower 5-star percentage from the paid vine reviews than the unpaid. I can assume that this is due to the process of having someone reach out to the customer for review will give a more honest opinion on the product than someone who is reviewing the product on their own.  
 
-![Vine_Analysis](https://github.com/lo7kyle/Movies-ETL/blob/main/Resources/movies_df%20import%20count.PNG) 
+![Vine_Analysis](https://github.com/lo7kyle/Amazon_Vine_Analysis/blob/main/Resources/vine_analysis.PNG) 
 
 There are many analyses we can do on these reviews such as sentiment analysis or even screening for bots, but for a quick way to perform an analysis for bias quick math is always a good way to start. 
 
